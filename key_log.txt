@@ -1,0 +1,12 @@
+'r' pressed
+'f' pressed
+'r' pressed
+'f' pressed
+Key.backspace pressed
+Key.backspace pressed
+Key.backspace pressed
+Key.backspace pressed
+Key.backspace pressed
+Key.backspace pressed
+Key.shift pressed
+Key.alt_l pressed
